@@ -2,7 +2,7 @@ Planilha para alimentar informações pessoais para a declaração de Imposto de
 
 O objetivo é alimentar dados pessoais, informações monetárias com o intuíto de facilitar, quando for realizar a declaração anual de ajustes.
 
-Esta planilha foi desenvida durante o Curso **"Santander - Excel com Inteligência Artificial"**, ministrado pela **DIO** e você tem liberdade de fazer as devidas melhorias.
+Esta planilha foi desenvolvida durante o Curso **"Santander - Excel com Inteligência Artificial"**, ministrado pela **DIO**. Você tem liberdade de fazer as devidas melhorias.
 
 A planilha contem três "menus": "TITULAR"; "INFORMES" e "NOTAS".
 Os menus são completamente navegáveis.
